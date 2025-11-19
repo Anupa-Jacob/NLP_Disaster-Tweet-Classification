@@ -19,9 +19,8 @@ A comprehensive Natural Language Processing (NLP) project that uses machine lear
 - [Results](#results)
 - [Key Insights](#key-insights)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## 🎯 Overview
 
@@ -292,8 +291,8 @@ disaster-tweet-classification/
 - [Text Classification with CNN](https://arxiv.org/abs/1408.5882)
 - [Logistic Regression for Text Classification](https://web.stanford.edu/~jurafsky/slp3/)
 
----
 
 
 
----
+
+
