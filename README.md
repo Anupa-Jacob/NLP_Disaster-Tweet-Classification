@@ -19,8 +19,8 @@ A comprehensive Natural Language Processing (NLP) project that uses machine lear
 - [Results](#results)
 - [Key Insights](#key-insights)
 - [Future Improvements](#future-improvements)
-- [Acknowledgments]
-- [References]
+- [Acknowledgments](#Acknowledgments)
+- [References](#References)
 
 ## 🎯 Overview
 
