@@ -220,16 +220,13 @@ disaster-tweet-classification/
 ### Visualizations
 
 #### Word Clouds
-![Word Clouds](results/word_clouds/disaster_vs_non_disaster.png)
 
 #### Confusion Matrices
-![Confusion Matrices](results/confusion_matrices/all_models.png)
 
 #### ROC Curves
-![ROC Curves](results/roc_curves/comparison.png)
 
 #### Training History (CNN)
-![Training History](results/training/cnn_history.png)
+
 
 ## 💡 Key Insights
 
